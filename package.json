@@ -1,0 +1,25 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.27.0",
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "buffer": "^6.0.3",
+    "eslint": "^9.27.0",
+    "eslint-config-prettier": "^10.1.5",
+    "parcel": "^2.15.1",
+    "react-dom": "^19.1.0",
+    "styled-components": "^6.1.18",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.32.1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "react": "^19.1.0"
+  }
+}
